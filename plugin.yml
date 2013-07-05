@@ -1,6 +1,6 @@
 name: bukkitstaff
 main: me.jophestus.bukkitstaff.bukkitstaff
-version: 4.0
+version: 5.0
 description: bukkitstaff
 commands:
     EvilSeph
@@ -36,4 +36,4 @@ commands:
     lol768
     toothplck1
     gomeow
-author: JOPHESTUS
+author: JOPHESTUS, Chaseoes
