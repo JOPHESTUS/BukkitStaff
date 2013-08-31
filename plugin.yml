@@ -1,50 +1,132 @@
 name: bukkitstaff
 main: me.jophestus.bukkitstaff.bukkitstaff
-version: 5.0
+version: 6.1
 description: bukkitstaff
 commands:
-    EvilSeph
-    lukegb
-    Dinnerbone
-    TnT
-    NuclearW
-    mbaxter
-    c0mp
-    Butkicker12
-    obnoxint
-    Jacek
-    krinsdeath
-    NodinChan
-    Milkywayz
-    Gravity
-    np98765
-    Lolmewn
-    sablednah
-    chaseoes
-    Zarius
-    Deathmarine
-    feildmaster
-    lDucks
-    evilmidget38
-    jkcclemens
-    slipcor
-    --GJ--
-    Iaccidentally
-    hawkfalcon
-    drtshock
-    Eviltechie
-    lol768
-    toothplck1
-    necrodoom
-    Jade
-    Iroh
-    Adamki11s
-    Tux2
-    recon88
-    TheGreenGamerHD
-    -_Husky_-
-    kezz101
-    chasechocolate
-    
-    
-author: JOPHESTUS, Chaseoes
+    EvilSeph:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    lukegb:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Dinnerbone:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    TnT:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    NuclearW:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    mbaxter:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    c0mp:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Butkicker12:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    obnoxint:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Jacek:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    krinsdeath:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    NodinChan:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Milkywayz:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Gravity:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    np98765:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Lolmewn:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    sablednah:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    chaseoes:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Zarius:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Deathmarine:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    feildmaster:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    lDucks:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    evilmidget38:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    jkcclemens:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    slipcor:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    --GJ--:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Iaccidentally:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    hawkfalcon:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    drtshock:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Eviltechie:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    lol768:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    toothplck1:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    necrodoom:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Jade:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Iroh:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Adamki11s:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Tux2:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    recon88:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    TheGreenGamerHD:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    -_Husky_-:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    kezz101:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    chasechocolate:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+author: JOPHESTUS

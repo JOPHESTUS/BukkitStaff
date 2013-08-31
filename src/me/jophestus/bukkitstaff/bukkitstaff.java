@@ -1,10 +1,9 @@
 package me.jophestus.bukkitstaff;
 
-import java.util.logging.Logger;
+
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
-import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class bukkitstaff extends JavaPlugin {
