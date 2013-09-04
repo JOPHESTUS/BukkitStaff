@@ -99,7 +99,7 @@ commands:
     toothplck1:
         description: 'Sends you an awesome message'
         usage: '/command'
-    necrodoom:
+    Necrodoom:
         description: 'Sends you an awesome message'
         usage: '/command'
     Jade:
