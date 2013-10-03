@@ -1,6 +1,6 @@
 name: bukkitstaff
 main: me.jophestus.bukkitstaff.bukkitstaff
-version: 6.1
+version: 6.2
 description: bukkitstaff
 commands:
     EvilSeph:
@@ -127,6 +127,15 @@ commands:
         description: 'Sends you an awesome message'
         usage: '/command'
     chasechocolate:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    gomeow:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    _DSH105_:
+        description: 'Sends you an awesome message'
+        usage: '/command'
+    Hoolean:
         description: 'Sends you an awesome message'
         usage: '/command'
 author: JOPHESTUS
