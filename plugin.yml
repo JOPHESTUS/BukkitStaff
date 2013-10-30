@@ -1,6 +1,6 @@
 name: bukkitstaff
 main: me.jophestus.bukkitstaff.bukkitstaff
-version: 6.2
+version: 6.4
 description: bukkitstaff
 commands:
     EvilSeph:
