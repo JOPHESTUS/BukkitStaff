@@ -1,6 +1,6 @@
 name: bukkitstaff
 main: me.jophestus.bukkitstaff.bukkitstaff
-version: 6.4
+version: 6.5
 description: bukkitstaff
 commands:
     EvilSeph:
@@ -13,9 +13,6 @@ commands:
         description: 'Sends you an awesome message'
         usage: '/command'
     TnT:
-        description: 'Sends you an awesome message'
-        usage: '/command'
-    NuclearW:
         description: 'Sends you an awesome message'
         usage: '/command'
     mbaxter:
@@ -33,13 +30,7 @@ commands:
     Jacek:
         description: 'Sends you an awesome message'
         usage: '/command'
-    krinsdeath:
-        description: 'Sends you an awesome message'
-        usage: '/command'
     NodinChan:
-        description: 'Sends you an awesome message'
-        usage: '/command'
-    Milkywayz:
         description: 'Sends you an awesome message'
         usage: '/command'
     Gravity:
@@ -51,13 +42,7 @@ commands:
     Lolmewn:
         description: 'Sends you an awesome message'
         usage: '/command'
-    sablednah:
-        description: 'Sends you an awesome message'
-        usage: '/command'
     chaseoes:
-        description: 'Sends you an awesome message'
-        usage: '/command'
-    Zarius:
         description: 'Sends you an awesome message'
         usage: '/command'
     Deathmarine:
@@ -72,13 +57,10 @@ commands:
     evilmidget38:
         description: 'Sends you an awesome message'
         usage: '/command'
-    jkcclemens:
+    Wolvereness:
         description: 'Sends you an awesome message'
         usage: '/command'
     slipcor:
-        description: 'Sends you an awesome message'
-        usage: '/command'
-    --GJ--:
         description: 'Sends you an awesome message'
         usage: '/command'
     Iaccidentally:
@@ -96,10 +78,7 @@ commands:
     lol768:
         description: 'Sends you an awesome message'
         usage: '/command'
-    toothplck1:
-        description: 'Sends you an awesome message'
-        usage: '/command'
-    necrodoom:
+    Necrodoom:
         description: 'Sends you an awesome message'
         usage: '/command'
     Jade:
@@ -108,10 +87,7 @@ commands:
     Iroh:
         description: 'Sends you an awesome message'
         usage: '/command'
-    Adamki11s:
-        description: 'Sends you an awesome message'
-        usage: '/command'
-    Tux2:
+    toothplck1:
         description: 'Sends you an awesome message'
         usage: '/command'
     recon88:
@@ -132,7 +108,7 @@ commands:
     gomeow:
         description: 'Sends you an awesome message'
         usage: '/command'
-    _DSH105_:
+    DSH105:
         description: 'Sends you an awesome message'
         usage: '/command'
     Hoolean:
