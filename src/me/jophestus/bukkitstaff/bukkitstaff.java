@@ -5,7 +5,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class BukkitStaff extends JavaPlugin {
+public class bukkitstaff extends JavaPlugin {
 
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         sender.sendMessage(ChatColor.DARK_GREEN + "+------------------------------+");
