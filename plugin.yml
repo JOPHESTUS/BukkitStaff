@@ -78,7 +78,7 @@ commands:
     lol768:
         description: 'Sends you an awesome message'
         usage: '/command'
-    Necrodoom:
+    necrodoom:
         description: 'Sends you an awesome message'
         usage: '/command'
     Jade:
